@@ -47,7 +47,5 @@
 ## 📊 GitHub Stats  
 
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bakrabuhassiba&theme=dracula)
-
 ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bakrabuhassiba&theme=dracula)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bakrabuhassiba&theme=apprentice)
