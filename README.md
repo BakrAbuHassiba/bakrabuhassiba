@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Bakr+Abuhassiba....;Back-end+Developer;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-##👋 About Me  
+## 👋 About Me  
 
 - 🎓 Computer Science Graduate
 - 🎓 ITI MEARN Graduate
@@ -16,7 +16,7 @@
 
 [![Phone](https://img.shields.io/badge/Phone-%2B20%20115%20074%205430-25D366?logo=whatsapp&logoColor=white)](tel:+201150745430)
 [![Email](https://img.shields.io/badge/Email-bakrabuhassiba%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:bakrabuhassiba@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Al--Hassan%20Ali-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bakr-abuhassiba/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bakr%20Abuhassiba0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bakr-abuhassiba/)  
 
 <h3 align="left">Languages and Tools:</h3>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=JavaScript)
