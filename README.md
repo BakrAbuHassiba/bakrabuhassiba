@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Bakr+Abuhassiba....;Back-end+Developer;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Bakr+Abuhassiba....;Full Stack+Developer;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
@@ -8,7 +8,7 @@
 
 - 🎓 Computer Science Graduate  
 - 🎓 ITI MEARN Graduate  
-- 👀 Passionate Back-end Developer  
+- 👀 Passionate Full Stack Developer  
 - 💻 Focused on Node.js, Express, and API development  
 - 🐍 Recently learning Python & Django  
 - 🌱 Always exploring new technologies and improving my skills  
