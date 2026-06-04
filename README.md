@@ -6,6 +6,7 @@
 
 ## 👋 About Me  
 
+- 💻 Junior Full-Stack Developer at Fixed Solutions
 - 🎓 Computer Science Graduate  
 - 🎓 ITI MEARN Graduate  
 - 👀 Passionate Full Stack Developer  
